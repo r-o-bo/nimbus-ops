@@ -1,2 +1,2 @@
 # pbl-course
-Ongoing research work on Financial Time Series Forecasting methods on Machine Learning models enhanced by Regularization techniques.
+Ongoing project work on optimizing and organizing cloud billing data using potentially the big 3 providers.
